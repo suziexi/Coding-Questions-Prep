@@ -1,12 +1,9 @@
-### Welcome to Suzie Xi's Coding Questions Prep website! 
-
-
 ### Data Structure Types 
 ### Algorithm Patterns 
 ### Compnay Tags 
 
 
-
+### Data Structure Types 
 - Bulleted
 - List
 
